@@ -10,3 +10,5 @@ Example configurations for Azure Build Pipelines for Python
 * [A Python library built with flit and pyproject.toml](library-flit)
 
 The full detail on these is on [my blog](https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634)
+
+**End**

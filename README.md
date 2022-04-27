@@ -11,4 +11,4 @@ Example configurations for Azure Build Pipelines for Python
 
 The full detail on these is on [my blog](https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634)
 
-**End**
+**End of file**
